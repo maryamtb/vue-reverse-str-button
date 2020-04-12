@@ -8,7 +8,8 @@ a tinylib npm package for reversing strings
 [![GitHub issues](https://img.shields.io/github/issues/maryamtb/tinylib)](https://github.com/maryamtb/tinylib/issues)
 
 - npm: https://www.npmjs.com/package/@mimooo/tinylib
-- demo: https://github.com/maryamtb/lib-tester
+
+![tinylib demo](demo/lib-tester.gif)
 
 ## Project setup
 ```
