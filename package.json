@@ -1,6 +1,6 @@
 {
-  "name": "tinylib",
-  "version": "0.1.0",
+  "name": "@mimooo/tinylib",
+  "version": "0.4.0",
   "main": "dist/tinylib.umd.js",
   "module": "dist/tinylib.esm.js",
   "unpkg": "dist/tinylib.min.js",
@@ -25,6 +25,10 @@
     "attributes": "attributes.json"
   },
   "devDependencies": {
+    "@babel/core": "^7.9.0",
+    "@babel/preset-env": "^7.9.5",
+    "@vue/babel-preset-app": "^4.3.1",
+    "babel-loader": "^8.1.0",
     "cross-env": "^5.2.0",
     "minimist": "^1.2.0",
     "rollup": "^1.14.4",
@@ -34,6 +38,11 @@
     "rollup-plugin-uglify-es": "0.0.1",
     "rollup-plugin-vue": "^4.7.2",
     "vue": "^2.6.10",
-    "vue-template-compiler": "^2.6.10"
+    "vue-template-compiler": "^2.6.10",
+    "webpack": "^4.42.1"
+  },
+  "dependencies": {
+    "@vue/cli-plugin-babel": "^4.3.1",
+    "autoprefixer": "^9.7.6"
   }
 }

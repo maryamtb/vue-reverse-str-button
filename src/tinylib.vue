@@ -9,12 +9,10 @@
 
 export default {
   name: "tinylib",
-  data: function() {
-    return {
-      message: {
-        type: String,
-        default: "Hello!"
-      }
+  props: {
+    message: {
+      type: String,
+      default: "Hello!"
     }
   },
   methods: {
