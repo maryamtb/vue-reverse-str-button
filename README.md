@@ -1,13 +1,11 @@
 # @mimooo/tinylib v0.4.0
 a tinylib npm package for reversing strings
 
-[![npm (scoped)]
-(https://img.shields.io/npm/v/@mimooo/tinylib.svg)]
-(https://github.com/maryamtb/tinylib)
+![npm (scoped)](https://img.shields.io/npm/v/@mimooo/tinylib)
 
-[![npm bundle size (scoped)]
-(https://img.shields.io/bundlephobia/min/@mimooo/tinylib)]
-(https://github.com/maryamtb/tinylib)
+![npm bundle size](https://img.shields.io/bundlephobia/min/@mimooo/tinylib)
+
+[![GitHub issues](https://img.shields.io/github/issues/maryamtb/tinylib)](https://github.com/maryamtb/tinylib/issues)
 
 - npm: https://www.npmjs.com/package/@mimooo/tinylib
 - demo: https://github.com/maryamtb/lib-tester
