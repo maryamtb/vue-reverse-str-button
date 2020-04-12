@@ -1,5 +1,5 @@
 # @mimooo/tinylib v0.4.0
-a tinylib npm package for reversing strings
+a tiny npm package for reversing strings
 
 ![npm (scoped)](https://img.shields.io/npm/v/@mimooo/tinylib)
 
