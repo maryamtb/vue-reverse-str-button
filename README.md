@@ -1,5 +1,5 @@
-# @mimooo/tinylib v0.4.0
-a tiny npm package for reversing strings
+# @mimooo/reverse-str v0.5.0
+An npm module for reversing strings in a Vue environment.
 
 ![npm (scoped)](https://img.shields.io/npm/v/@mimooo/tinylib)
 

@@ -1,9 +1,9 @@
-import tinylib from './tinylib.vue'
+import reverseString from './reverse-str.vue'
 
 function install(Vue) {
   if (install.installed) return;
   install.installed = true;
-  Vue.component("tinylib", tinylib);
+  Vue.component("reverseString", reverseString);
 }
 
 const plugin = {
@@ -21,6 +21,6 @@ if (GlobalVue) {
   GlobalVue.use(plugin);
 }
 
-tinylib.install = install;
+reverseString.install = install;
 
-export default tinylib;
+export default reverseString;

@@ -8,11 +8,11 @@
 <script>
 
 export default {
-  name: "tinylib",
+  name: "reverseString",
   props: {
     message: {
       type: String,
-      default: "Hello!"
+      default: "Reverse me!"
     }
   },
   methods: {
