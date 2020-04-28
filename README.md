@@ -7,8 +7,6 @@ An npm module for reversing strings in a Vue environment.
 
 [![GitHub issues](https://img.shields.io/github/issues/maryamtb/vue-reverse-str-button)](https://github.com/maryamtb/vue-reverse-str-button/issues)
 
-![demo](./demo/lib-tester.gif)
-
 ## Example
 ```
 <template>
