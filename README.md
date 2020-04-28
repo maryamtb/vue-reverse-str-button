@@ -1,4 +1,4 @@
-# @mimooo/vue-reverse-str-button v1.0.0
+# @mimooo/vue-reverse-str-button
 An npm module for reversing strings in a Vue environment.
 
 ![npm bundle size](https://img.shields.io/bundlephobia/min/@mimooo/vue-reverse-str-button)

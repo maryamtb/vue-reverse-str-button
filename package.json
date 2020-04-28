@@ -1,6 +1,8 @@
 {
   "name": "@mimooo/vue-reverse-str-button",
-  "version": "1.1.0",
+  "version": "1.1.5",
+  "homepage": "https://github.com/maryamtb/vue-reverse-str-button#readme",
+  "license": "(MIT OR Apache-2.0)",
   "main": "dist/reverse-str.umd.js",
   "module": "dist/reverse-str.esm.js",
   "unpkg": "dist/reverse-str.min.js",
@@ -44,5 +46,13 @@
   "dependencies": {
     "@vue/cli-plugin-babel": "^4.3.1",
     "autoprefixer": "^9.7.6"
-  }
+  },
+  "keywords": [
+    "vue",
+    "reverse-string",
+    "button",
+    "reverse",
+    "message",
+    "reverse-message"
+  ]
 }
