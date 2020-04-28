@@ -10,7 +10,7 @@ const argv = minimist(process.argv.slice(2));
 const config = {
   input: "src/main.js",
   output: {
-    name: "reverse-str",
+    name: "reverseString",
     exports: "named"
   },
   plugins: [

@@ -7,9 +7,34 @@ An npm module for reversing strings in a Vue environment.
 
 [![GitHub issues](https://img.shields.io/github/issues/maryamtb/tinylib)](https://github.com/maryamtb/tinylib/issues)
 
-- npm: https://www.npmjs.com/package/@mimooo/tinylib
-
 ![tinylib demo](demo/lib-tester.gif)
+
+## Example
+```
+<template>
+  <div id="app">
+    <tinylib  :message="'egassem desrever a si siht'" />
+  </div>
+</template>
+
+<script>
+import reverseString from '@mimooo/vue-reverse-str-button'
+export default {
+  name: 'App',
+  components: {
+    reverseString
+  },
+  computed: {
+    status: {
+      get() { return this.message },
+      set(value) {
+        this.message = value;
+      }
+    }
+  },
+}
+</script>
+```
 
 ## Project setup
 ```
