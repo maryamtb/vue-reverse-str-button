@@ -1,6 +1,6 @@
 {
   "name": "@mimooo/vue-reverse-str-button",
-  "version": "0.5.0",
+  "version": "1.1.0",
   "main": "dist/reverse-str.umd.js",
   "module": "dist/reverse-str.esm.js",
   "unpkg": "dist/reverse-str.min.js",

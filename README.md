@@ -8,7 +8,7 @@ An npm module for reversing strings in a Vue environment.
 ```
 <template>
   <div id="app">
-    <tinylib  :message="'egassem desrever a si siht'" />
+    <reverseString  :message="'egassem desrever a si siht'" />
   </div>
 </template>
 
