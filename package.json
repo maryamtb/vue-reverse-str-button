@@ -41,7 +41,7 @@
     "rollup-plugin-vue": "^6.0.0",
     "vue": "^2.6.10",
     "vue-template-compiler": "^2.6.10",
-    "webpack": "^4.43.0"
+    "webpack": "^5.108.4"
   },
   "dependencies": {
     "@vue/cli-plugin-babel": "^4.3.1",
